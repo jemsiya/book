@@ -1,0 +1,37 @@
+.bord{
+  border: 2px solid rgb(212, 77, 14);
+  border-radius: 10px;
+  height: 400px;
+  width: 600px;
+  padding: 100px;
+  margin-top:-600px;
+  background-color:rgb(224, 193, 136);
+  margin-right:300px;
+  margin-left: 100px;
+
+
+}
+.nkn{
+  color: rgb(226, 145, 23);
+
+}
+.nk{
+  color: rgb(145, 30, 15);
+  border-radius: 10px;
+  border: 0px;
+  width: 100%;
+  box-shadow: 0 10px 5px rgba(206, 122, 97, 0.7);
+  border-radius: 10px;
+
+}
+#nn{
+  background-color: rgb(226, 145, 23);
+  color: rgb(106, 32, 163);
+  border-radius: 8px;
+  border: 0px;
+  width: 100%;
+}
+.nav{
+  float: right;
+}
+
